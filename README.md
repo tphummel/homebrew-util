@@ -10,6 +10,4 @@ brew tap tphummel/util
 
 ### [date-range](https://github.com/tphummel/date-range)
 
-```
-brew install date-range
-```
+### [streak](https://github.com/tphummel/streak)
