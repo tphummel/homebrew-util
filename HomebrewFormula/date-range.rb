@@ -3,8 +3,8 @@ require "language/node"
 class DateRange < Formula
   desc "generate a json array of iso-8601 date strings between a start and end date (inclusive)."
   homepage "https://github.com/tphummel/date-range"
-  url "https://github.com/tphummel/date-range/archive/v2.0.1.tar.gz"
-  sha256 "d62c16b409649058824d8068d7d1f6876cbb8703ca7f4cb64b41ffe80cd95d9c"
+  url "https://github.com/tphummel/date-range/archive/v2.1.0.tar.gz"
+  sha256 "ecee945b473179af64aa55e4097c563891fecf4e9d562e0aa4d03f3ec46fe484"
 
   depends_on "node"
 
