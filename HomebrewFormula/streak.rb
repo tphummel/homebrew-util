@@ -3,8 +3,8 @@ require "language/node"
 class Streak < Formula
   desc "gather streaks from an ordered json array on stdin"
   homepage "https://github.com/tphummel/streak"
-  url "https://github.com/tphummel/streak/archive/v1.0.0.tar.gz"
-  sha256 "9e1619174d9ec2546a1d2da35b807a2f7f52577e4b05fac26d0c0fdc544ec580"
+  url "https://github.com/tphummel/streak/archive/v1.0.1.tar.gz"
+  sha256 "e83c4a93ec7a0d5827cb373879f0c5a109f76702359ba9354fb563972cce5fd3"
 
   depends_on "node"
 
